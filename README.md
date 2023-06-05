@@ -3,7 +3,7 @@
 This project aims to develop a machine learning model that predicts the quality of wines based on their chemical properties. The project utilizes a dataset containing various physicochemical attributes of wines, and employs a data analysis and machine learning pipeline to explore the relationships between the variables and wine quality. Feature selection techniques are applied to identify the most influential features, and a binary logistic regression model is trained and evaluated using performance metrics such as accuracy, precision, recall, and F1-score. The project provides insights into the factors influencing wine quality and offers a practical model for predicting and classifying wine quality based on its chemical composition.
 
 ## About the dataset
-This datasets is related to red variants of the Portuguese "Vinho Verde" wine. The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
+This dataset is related to red variants of the Portuguese "Vinho Verde" wine. The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
 
 Link to dataset: https://archive.ics.uci.edu/ml/datasets/wine+quality.
 
